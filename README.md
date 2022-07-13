@@ -19,7 +19,7 @@ I started with the code in mid-2021 with the Certifield Tech Developer scholarsh
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregoM7&langs_count=10&theme=dark&layout=compact" alt="GregoM7 :: Top Langs" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregoM7)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregoM7&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
