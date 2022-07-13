@@ -1,5 +1,5 @@
 
-# Hi, I'm Gregorio! 
+# Hi, I'm Gregorio! :star:
 
 
 ## 🚀 About Me
