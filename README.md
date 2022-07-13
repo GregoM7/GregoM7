@@ -3,7 +3,14 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+
+### Español
+Soy Desarrollador Full Stack en busca de trabajo, soy un entusiasta de los desafios y el superarme en todo lo que me proponga, amo los videojuegos y sobre todo los Esports. Soy un fanatico de Star Wars al punto de tener 3 tatuajes y mas en camino. Tambien soy profesor de educacion fisica y jugador semi-profesional de Apex Legends.
+Comence con el codigo a mediados del 2021 con la beca de Certifield Tech Developer de Digital House (Auspiciada por Mercado Libre y Globant) la cual me inserto en un mundo increible al cual pienso dedicar toda mi vida.
+
+### English
+I'm a Full Stack Developer looking for a job, I love video games and especially Esports. I am a Star Wars fanatic to the point of having 3 tattoos and more on the way. I'm also a physical education teacher and a semi-professional Apex Legends player.
+I started with the code in mid-2021 with the Certifield Tech Developer scholarship from Digital House (Sponsored by Mercado Libre and Globant) which inserted me into an incredible world to which I plan to dedicate my whole life.
 
 
 ## 🛠 Skills
